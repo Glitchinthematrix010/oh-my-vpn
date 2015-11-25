@@ -1,6 +1,10 @@
 # oh-my-vpn!
 Setup your own OpenVPN server in ~30 seconds! and secure your naked internet connections before it is too late.
 
+## Dedication
+I would like to dedicate this project for a free man who has been detained in presion since March 15th 2012
+[Bassel khartabil](https://en.wikipedia.org/wiki/Bassel_Khartabil)
+
 ### Server Setup
 Pick a new cheap server, CPU and Memory does not really matter
 Cloud providers are awesome for this setup
